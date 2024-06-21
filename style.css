@@ -49,6 +49,10 @@ a {
     color: #fff;
 }
 
+.title-page {
+    font-family: "Playwrite NG Modern", cursive;
+}
+
 /* section wellcome */
 
 .wellcome-section {
@@ -74,6 +78,18 @@ a {
 
 .greeting {
     color: #DC5F00;
-    font-weight: 100;
+    font-weight: 400;
     font-size: 2rem;
+    font-family: "Playwrite NG Modern", cursive;
+}
+
+/* section project */
+
+.Presentation-project {
+    height: 7rem;
+    width: auto;
+    background: linear-gradient(170deg, #f1a76f 0%, #DC5F00 100%);
+} 
+.title-presentation {
+    color: #fff;
 }
